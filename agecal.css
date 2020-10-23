@@ -76,6 +76,7 @@ body{
   background: #207579;
   color: #87ebef;
   border-bottom: 1px solid #e0e4e8;
+  position: fixed;
 }
 
 .wrapper .main_content .info{
